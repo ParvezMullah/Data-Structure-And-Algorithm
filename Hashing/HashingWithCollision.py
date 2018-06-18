@@ -37,7 +37,7 @@ class Hashing:
     def traverse(self):
         for index, value in enumerate(self.count):
             if value is not None:
-                print(index, value)i55
+                print(index, value)
 
 
 arr = [1, 2, 3, 4]
